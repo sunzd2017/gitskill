@@ -6,6 +6,7 @@ public class GitTestFile {
 		// TODO Auto-generated method stub
 		System.out.println();
 		System.out.println(124);
+		System.out.println("feature");
 		
 	}
 
